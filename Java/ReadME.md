@@ -1,4 +1,4 @@
-# Programming Techniques 
+# Contemporary Programming Languages: Java
 ## Assigned Problems
 ### Byron Dowling
 ### Description:
