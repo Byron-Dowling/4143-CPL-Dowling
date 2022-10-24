@@ -5,7 +5,7 @@ import time
 """
 Name: 
     
-        Byron Dowling and Loic Konan
+        Byron Dowling
         Class: 4143 Programming Techniques
         Date: 11/29/2021
         Assignment: Final Project
