@@ -1,5 +1,5 @@
 ## Vigenere Cracking
-### Byron Dowling and Loic Konan
+### Byron Dowling
 ### 4143 Final Project
 
 ### Description:
